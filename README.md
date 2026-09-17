@@ -1,7 +1,7 @@
 # Abaqus-Fatigue-Fracture-Tools
 "# Abaqus Fatigue & Fracture Tools
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.22810337)  
 
 A collection of advanced Python scripts developed for the Abaqus 6.14 environment (Python 2.7 compliant) to evaluate multiaxial fatigue criteria and automate the post-processing of fracture mechanics data. 
 
